@@ -1,0 +1,14 @@
+package--------1 --->AI CHATBOT ---->gemini.py
+	  |	
+           -----2 --->TEXT SUMMERIZER AND REWRITER ---->summerizer.py
+	  |	
+           -----3 --->CODE ASSISTANT ---->code_ass.py
+	  |
+           -----4 --->FILE Q N A UPLOAD
+	  |	
+           -----5 --->IMAGE UNDERSTANDING
+main.py
+ 
+.streamlit ---->config.toml
+           |
+	   ---->secrets.toml	
