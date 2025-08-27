@@ -1,3 +1,14 @@
+# Hi 👋, I'm Rajarshi Paul  
+
+🚀 B.Tech CSE student | AI & Web Development Enthusiast  
+🌱 Currently learning: Machine Learning, React, Streamlit  
+💡 Projects: AI-powered Chatbot, PPT Generator, Smart Greenhouse System  
+📫 Reach me at: [Email](mailto:rajarshipaul20@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rajarshipaul20)  
+
+## 🔧 Tech Stack
+- Languages: Java, Python, C/C++, JavaScript  
+- Frameworks: React, Streamlit, Node.js  
+- Tools: Git, AutoCAD, Excel
 # 🌐 AI-WEB-APP
 
 An AI-powered web application built with **Streamlit** and **Google Gemini API**, designed to provide **summarization, code assistance, file analysis, and automatic PPT generation**.  
