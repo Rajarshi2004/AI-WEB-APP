@@ -4,6 +4,10 @@ from package.gemini import *
 from package.code_ass import *
 from package.file_uploader import *
 from package.pptmaker import *
+import os
+os.environ["STREAMLIT_DISABLE_WATCHDOG_WARNINGS"] = "true"
+os.environ["WATCHDOG_DISABLE_FILE_WATCHING"] = "true"
+
 
 st.title("🔥 AI on the Rocks 🔥")
 st.subheader("Chill Vibes, Powerful AI 🚀")
